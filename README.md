@@ -13,11 +13,11 @@ The Signature will look something like this with the logo on the bottom:
 John Doh\
 Operation Manager\
 Acme Ltd\
-  Donald Duck 3 st,\
-  Alagator Bay 66233, Wakanda\
-  Tel 12345678\
-  Cell 87654321\
-  Fax 12398745\
-  ✉ contact@domain.com\
+  \Donald Duck 3 st,\
+  \Alagator Bay 66233, Wakanda\
+  \Tel 12345678\
+  \Cell 87654321\
+  \Fax 12398745\
+  \contact@domain.com\
 \
 https://www.example.com
